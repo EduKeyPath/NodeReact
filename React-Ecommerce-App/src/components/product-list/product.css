@@ -1,0 +1,9 @@
+.product-list .card-img-top {
+    max-width: 150px;
+    margin: 0 auto;
+    height: 230px;
+}
+.product-list .high {
+    top: 0;
+    left: 0;
+}

@@ -1,0 +1,29 @@
+.login-page .left-part {
+    background: #f2f7ff;
+    height: 100vh;
+    padding: 30px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.login-page .left-part .logo {
+    max-width: 70%;
+}
+.login-page .left-part p {
+    font-size: 24px;
+    line-height: 28px;
+    margin: 15px 0 0 0;
+}
+.login-page .right-part {
+    height: 100vh;
+}
+.login-page .form-control {
+    width: 400px;
+}
+.alert-wrap {
+    left: 0;
+    width: 99%;
+    text-align: center;
+}
